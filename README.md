@@ -2,13 +2,16 @@
 
 _A custom Rainmeter telemetry engine driving a 1920×480 glass LCD with real-time PC stats, overclock info, and FPS._
 
-![Build](https://img.shields.io/badge/build-passing-8A2BE2?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Rainmeter](https://img.shields.io/badge/Rainmeter-Custom_Skin-ff69b4?style=for-the-badge)
-![Lua](https://img.shields.io/badge/Lua-Scripting-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Plugin_Backend-00599C?style=for-the-badge&logo=c%2B%2B)
-![HWiNFO](https://img.shields.io/badge/Telemetry-HWiNFO-00A4EF?style=for-the-badge)
-![MSI Afterburner](https://img.shields.io/badge/FPS-MSI_Afterburner-006F3D?style=for-the-badge)
+## 🧰 Tech Badges
+
+![Build](https://img.shields.io/badge/Build-Passing-6a0dad?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)
+![Rainmeter](https://img.shields.io/badge/Rainmeter-Skin-555555?style=for-the-badge)
+![Custom Skin](https://img.shields.io/badge/Custom_UI-ff66b3?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-Scripting-2C2D72?style=for-the-badge&logo=lua)
+![C++](https://img.shields.io/badge/C++-Plugin_Backend-00599C?style=for-the-badge&logo=cplusplus)
+![Telemetry](https://img.shields.io/badge/Telemetry-HWiNFO-0A84FF?style=for-the-badge)
+![FPS](https://img.shields.io/badge/FPS-MSI_Afterburner-009245?style=for-the-badge)
 
 ---
 

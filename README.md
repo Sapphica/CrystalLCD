@@ -2,8 +2,6 @@
 
 _A custom Rainmeter telemetry engine driving a 1920×480 glass LCD with real-time PC stats, overclock info, and FPS._
 
-## 🧰 Tech Badges
-
 ![Build](https://img.shields.io/badge/Build-Passing-6a0dad?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)
 ![Rainmeter](https://img.shields.io/badge/Rainmeter-Skin-555555?style=for-the-badge)

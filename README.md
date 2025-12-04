@@ -29,12 +29,14 @@ _A custom Rainmeter telemetry engine driving a 1920×480 glass LCD with real-tim
 Crystal-LCD is a **glass-style telemetry HUD** for a dedicated 1920×480 LCD panel.  
 It’s built to sit under the main display and show **everything that actually matters** while gaming or stress-testing:
 
+- ⭐ **AMD star-core tracking**, including real-time core-parking detection and a **gold 3XD indicator** when a V-Cache star core activates  
 - CPU clocks, temps, utilization, power, overclock indicator  
 - GPU clocks, temps, VRAM usage, PCIe link speed, power draw  
 - FPS (live + rolling average) with layout switching at high framerates  
 - Pump RPM, radiator temperature (current + max)  
 - Per-drive SMART health, lifespan, and temperature  
-- System uptime, RAM usage, top CPU process
+- System uptime, RAM usage, top CPU process  
+
 
 All of this is driven through **Rainmeter + HWiNFO + MSI Afterburner + plugins**, wired together by a single  `CrystalTelemetry.ini` and `GIF.ini`.
 
